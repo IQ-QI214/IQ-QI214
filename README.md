@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IQ-QI214
+- 👋 Hi, I’m @IQ-QI0214
 - 👀 I’m interested in CS/AI
 - 🌱 I’m currently learning MLsys
 - 💞️ I’m looking to collaborate on ...
